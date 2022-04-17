@@ -1,2 +1,2 @@
-# codegym-java-web
-java-web exercise
+# Some Java Web basic from scratch for newbies
+java-web exercise for newbies
